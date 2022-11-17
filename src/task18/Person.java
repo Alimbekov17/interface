@@ -1,4 +1,4 @@
-package task17;
+package task18;
 
 public abstract class Person implements Payable, Livable{
     private String fullName;

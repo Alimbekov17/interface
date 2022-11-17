@@ -1,4 +1,4 @@
-package task17;
+package task18;
 
 public interface Payable {
     void payRent(int price);

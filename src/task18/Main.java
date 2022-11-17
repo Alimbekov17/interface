@@ -1,11 +1,11 @@
-package task17;
+package task18;
 
 public class Main {
     public static void main(String[] args) {
         Person apartment = new Apartment("Bishkek, Djal");
         Person hotel = new Hotel();
         Person dorm = new Dorm();
-        
+
         Person[] family = {
                 new Apartment("Max", 25, "male"),
                 new Apartment("Jane", 20, "female"),

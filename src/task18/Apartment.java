@@ -1,4 +1,4 @@
-package task17;
+package task18;
 
 public class Apartment extends Person{
     private String address;
